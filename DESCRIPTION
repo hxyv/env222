@@ -1,0 +1,19 @@
+Package: env222
+Version: 0.0.0
+Date: 2022-12-09
+Title: Collection of functions created by the module ENV222
+Author: Peng Zhao
+Maintainer: Peng Zhao <pzhao@pzhao.net>
+Depends: R (>= 3.0.0)
+Imports: 
+  ggplot2
+Suggests:
+# SystemRequirements: pandoc (>= 1.14) - http://pandoc.org
+Description: ENV222 is an undergraduate module of XJTLU.
+License: GPL-3
+URL: https://github.com/pzhaonet/env222
+BugReports: https://github.com/pzhaonet/env222/issues
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+NeedsCompilation: no
+LazyData: true
